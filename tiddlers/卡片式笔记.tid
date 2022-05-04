@@ -1,0 +1,10 @@
+created: 20220428095159982
+creator: hamzo
+modified: 20220428095333782
+modifier: hamzo
+tags: 使用说明
+title: 卡片式笔记
+tmap.id: 746fab4c-2eb5-40bb-968b-600201b0c810
+type: text/vnd.tiddlywiki
+
+在这个Wiki中，一切词条都会以“卡片式笔记”的形式储存在html文件当中，并可以在本地自动保存。

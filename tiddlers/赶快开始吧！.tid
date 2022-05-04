@@ -1,0 +1,16 @@
+created: 20220428100250179
+creator: hamzo
+modified: 20220428102324706
+modifier: hamzo
+tags: 使用说明
+title: 赶快开始吧！
+tmap.id: 54eb23a9-acba-4be3-9527-4d9007a4bfc0
+type: text/vnd.tiddlywiki
+
+VTuber Tech Blog是一个基于TiddlyWiki的个人知识库，并存储在WPS云服务上，可以进行手动同步从而在另一台设备上进行编辑。
+
+如果需要调整外观、字体等，想让界面更易于编辑和浏览，可以打开[[$:/ControlPanel]]卡片进行调整设置。
+
+一些使用经验可以总结到[[使用技巧]]这里！！
+
+初期使用时，不会设置目录~~（其实真的是“不会设置目录”）~~，一切信息以“有标题的卡片”的方式进行呈现。因此需要善用搜索功能~
