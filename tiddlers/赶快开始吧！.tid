@@ -1,13 +1,13 @@
 created: 20220428100250179
 creator: hamzo
-modified: 20220428102324706
+modified: 20220504150215229
 modifier: hamzo
 tags: 使用说明
 title: 赶快开始吧！
 tmap.id: 54eb23a9-acba-4be3-9527-4d9007a4bfc0
 type: text/vnd.tiddlywiki
 
-VTuber Tech Blog是一个基于TiddlyWiki的个人知识库，并存储在WPS云服务上，可以进行手动同步从而在另一台设备上进行编辑。
+VTuber Tech Blog是一个基于TiddlyWiki的个人知识库，并存储在GitHub上，可以进行自动同步从而在另一台设备上进行编辑。目前这个知识库是公开的状态，任何人都可以随意访问。
 
 如果需要调整外观、字体等，想让界面更易于编辑和浏览，可以打开[[$:/ControlPanel]]卡片进行调整设置。
 
